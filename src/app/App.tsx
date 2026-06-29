@@ -64,7 +64,7 @@ const MENU_ITEMS: MenuItem[] = [
   {
     id: "signature-iced-latte",
     name: "Signature Iced Latte",
-    description: "Our classic — bold coffee over ice with that smooth, satisfying finish",
+    description: "Our classic, bold coffee over ice with that smooth, satisfying finish",
     price: 5.0,
     category: "Iced Lattes",
     image:
@@ -78,7 +78,7 @@ const MENU_ITEMS: MenuItem[] = [
     price: 6.0,
     category: "Iced Lattes",
     image:
-      "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?w=600&h=600&fit=crop&auto=format",
+      "https://drive.google.com/file/d/1EtjzdxHPdnWJw0xx9eQi7Qsd9GJ58G-J/view?usp=sharing",
     popular: true,
   },
   {
@@ -113,7 +113,7 @@ const MENU_ITEMS: MenuItem[] = [
   {
     id: "strawberry-lemonade",
     name: "Strawberry Lemonade Refresher",
-    description: "Sweet strawberry and zesty lemon, made fresh — no caffeine, all flavour",
+    description: "Sweet strawberry and zesty lemon, made fresh, no caffeine, all flavour",
     price: 5.0,
     category: "Refreshers",
     image:
@@ -195,7 +195,7 @@ const REVIEWS = [
 const FAQS = [
   {
     q: "Where are you located?",
-    a: "We set up every Friday after Jummah at the Ottawa Uyghur Centre, 3555 St Joseph Blvd, Ottawa — from 2:00 PM to 3:00 PM. Come find us!",
+    a: "We set up every Friday after Jummah at the Ottawa Uyghur Centre, 3555 St Joseph Blvd, Ottawa, from 2:00 PM to 3:00 PM. Come find us!",
   },
   {
     q: "Do you accept pre-orders?",
@@ -207,11 +207,11 @@ const FAQS = [
   },
   {
     q: "What payment methods do you take?",
-    a: "We accept cash and e-transfer at the market. Online pre-orders are card only.",
+    a: "We accept cash and e-transfer at the booth. Online pre-orders are card only.",
   },
   {
     q: "Do you offer dairy-free options?",
-    a: "Yes — we offer oat milk as a dairy-free alternative for any of our iced lattes. Just select oat milk when you customize your order.",
+    a: "Yes, we offer oat milk as a dairy-free alternative for any of our iced lattes. Just select oat milk when you customize your order.",
   },
 ];
 
